@@ -1,5 +1,8 @@
 # Space Invaders FRL
 
+![](https://i.imgur.com/EHRvVH2l.jpg)  
+Photo by migfernando#2194
+
 ## Disclaimer
 
 Basically, the Space Invaders and the individual Space Invader icons belong solely to Taito Corporation, and cannot be included in this repository. 
@@ -35,6 +38,19 @@ A 1.6mm thick PCB should be fine. 1.2mm could work.
 The keyboard uses [QMK/VIAL](https://get.vial.today/). Firmware file for it is in the `firmware` folder.
 
 QMK source files for the board are in [this repo](https://github.com/ramonimbao/vial-qmk/tree/kb/sifrl/keyboards/ramonimbao/sifrl).
+
+## Daughterboard
+
+The board uses [my own version of the squatterboard](https://github.com/ramonimbao/squatterboard-v1.5). See the repo for more details.
+
+## Parts Needed
+
+| Qty | Part | Notes |
+| --- | ---- | ----- |
+| 2   | M3x10 Cap Head Screw | For the case |
+| 9   | M2.5x6 Button Head Screw | For the plate |
+| 2   | M3x6 Cap Head Screw | For the daughterboard
+| 1   | 50mm 4-pin JST-SH cable | Longer is better if you want to be able to reassemble it often |
 
 ## License
 
