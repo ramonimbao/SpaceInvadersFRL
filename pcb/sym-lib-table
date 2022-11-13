@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KBLIBDIR}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KBLIBDIR}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KBLIBDIR}/Type-C.pretty/Type-C.kicad_sym")(options "")(descr ""))
+)
