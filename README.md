@@ -45,12 +45,12 @@ The board uses [my own version of the squatterboard](https://github.com/ramonimb
 
 ## Parts Needed
 
-| Qty | Part | Notes |
-| --- | ---- | ----- |
-| 2   | M3x10 Cap Head Screw | For the case |
-| 9   | M2.5x6 Button Head Screw | For the plate |
-| 2   | M3x6 Cap Head Screw | For the daughterboard
-| 1   | 50mm 4-pin JST-SH cable | Longer is better if you want to be able to reassemble it often |
+| Qty | Part | URL | Notes |
+| --- | ---- | --- | ----- |
+| 2   | M3x10 Cap Head Screw | https://www.mcmaster.com/95263A134 | For the case |
+| 9   | M2.5x6 Button Head Screw | https://www.mcmaster.com/92095A458 |For the plate |
+| 2   | M3x6 Cap Head Screw | https://www.mcmaster.com/92095A179 | For the daughterboard
+| 1   | 50mm 4-pin JST-SH cable | https://www.digikey.com/short/q0md9qh8 |  Longer is better if you want to be able to reassemble it often |
 
 ## License
 
